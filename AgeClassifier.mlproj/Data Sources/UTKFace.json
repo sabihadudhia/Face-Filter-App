@@ -1,0 +1,37 @@
+{
+  "activityEntities" : [
+    "dataSourceCreated",
+    [
+      {
+        "createdDate" : "2026-06-08T09:39:39Z",
+        "event" : "dataSourceCreated",
+        "id" : "115C3DFD-89EF-41A4-A169-DAF704D27C53",
+        "subtitle" : "UTKFace",
+        "title" : "Data Source Created"
+      }
+    ]
+  ],
+  "createdDate" : "2026-06-08T09:39:39Z",
+  "dataPathRelativeToProjectURL" : "../../archive/UTKFace/",
+  "dataResult" : {
+    "createdDate" : "2026-06-08T09:39:39Z",
+    "dataSourceID" : "667A0EA9-7B9E-44DB-A5A8-107AEED560BE",
+    "dataURL" : "file:///Users/FAZELDUDHIA/Downloads/archive/UTKFace/",
+    "error" : {
+      "code" : 2,
+      "domain" : "MLRecipeCreateMLAdaptor.RecipeSession.DataAccessError",
+      "errorType" : "error",
+      "reason" : "File not present at \"UTKFace\""
+    }
+  },
+  "dataURL" : "file:///Users/FAZELDUDHIA/Downloads/archive/UTKFace/",
+  "experimentIDs" : [
+    "33409E55-9347-4658-A72B-B6B96215BF0B"
+  ],
+  "id" : "667A0EA9-7B9E-44DB-A5A8-107AEED560BE",
+  "modifiedDate" : "2026-06-26T11:16:40Z",
+  "pathType" : 0,
+  "preferredFilename" : "UTKFace",
+  "title" : "UTKFace",
+  "version" : "1.0"
+}

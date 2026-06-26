@@ -1,0 +1,37 @@
+{
+  "activityEntities" : [
+    "dataSourceCreated",
+    [
+      {
+        "createdDate" : "2026-06-08T09:41:16Z",
+        "event" : "dataSourceCreated",
+        "id" : "680C3055-A1D0-413A-8EF7-D4C4EB34211E",
+        "subtitle" : "archive",
+        "title" : "Data Source Created"
+      }
+    ]
+  ],
+  "createdDate" : "2026-06-08T09:41:16Z",
+  "dataPathRelativeToProjectURL" : "../archive/",
+  "dataResult" : {
+    "createdDate" : "2026-06-08T09:41:16Z",
+    "dataSourceID" : "80D32D45-6801-45A3-8899-9F1DAABD48F7",
+    "dataURL" : "file:///Users/FAZELDUDHIA/Downloads/Sabiha%20Edge%20AI/archive/",
+    "error" : {
+      "code" : 0,
+      "domain" : "com.apple.CreateML.xpc",
+      "errorType" : "error",
+      "reason" : "Missing data for label utkface_aligned_cropped. Detailed list of labels missing files: [\"utkface_aligned_cropped\"]."
+    }
+  },
+  "dataURL" : "file:///Users/FAZELDUDHIA/Downloads/Sabiha%20Edge%20AI/archive/",
+  "experimentIDs" : [
+    "33409E55-9347-4658-A72B-B6B96215BF0B"
+  ],
+  "id" : "80D32D45-6801-45A3-8899-9F1DAABD48F7",
+  "modifiedDate" : "2026-06-26T11:17:05Z",
+  "pathType" : 0,
+  "preferredFilename" : "archive",
+  "title" : "archive",
+  "version" : "1.0"
+}

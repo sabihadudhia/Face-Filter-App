@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2026-06-08T09:38:49Z",
+        "event" : "projectCreated",
+        "id" : "3C9C09C1-0E87-487D-9F91-30B3D9A0360D",
+        "subtitle" : "AgeClassifier",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "FAZEL IQBAL DUDHIA",
+  "createdDate" : "2026-06-08T09:38:49Z",
+  "description" : "",
+  "id" : "7BAFA2A1-5EE7-4393-9EAF-65FA06A669EC",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2026-06-08T09:38:49Z",
+  "projectName" : "AgeClassifier",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "imageClassifier",
+  "title" : "Image Classification",
+  "version" : "1.1"
+}
